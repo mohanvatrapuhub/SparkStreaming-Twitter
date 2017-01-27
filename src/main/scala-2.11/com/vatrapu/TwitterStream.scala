@@ -30,10 +30,10 @@ object TwitterStream {
     import spark.implicits._  //Used to convert Scala objects into Dataframes
 
 
-    val consumerKey = "5ghJ2HtrrmfLHWgrnc2B79Cqc"
-    val consumerSecret = "CVmrbEe0JczxDO1YdahJzSc8niqB27ann5kJgT3KfWf7lTjiVj"
-    val accessToken = "131408129-vm4Er2TrGXX6sU9AUcUuGeuMhv9hehd5Ha1BXiaq"
-    val accessTokenSecret = "CkaxU0ds24vF6mEMo5HiNEOSBivJOERyJ15oobYBarz29"
+    val consumerKey = " "
+    val consumerSecret = " "
+    val accessToken = " "
+    val accessTokenSecret = " "
 
 
     val conf = new ConfigurationBuilder()
